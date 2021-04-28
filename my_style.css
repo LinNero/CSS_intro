@@ -1,0 +1,26 @@
+/*
+My style for index.html
+*/
+
+p {
+    color: magenta;
+    font: bold;
+    font-size: 24px;
+}
+
+p:hover {
+    background-color: white;
+}
+
+.my_red {
+    color: red;
+}
+
+p.my_red {
+    font-style: italic;
+    color: pink;
+}
+
+.x {
+    cursor: crosshair;
+}
